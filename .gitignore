@@ -1,0 +1,7 @@
+api/.env
+certificates
+api/trash/
+api/api_env/
+upload_databases
+model_mapping_monthly_update/
+api/app.ipynb
